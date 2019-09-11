@@ -8,4 +8,12 @@
 
 **Call Sign:** JC
 
-----
+# Clone Army
+
+## Caleb French
+
+**Rank:** Senior Clone Manager
+
+**Designation:** CR-9090
+
+**Call Sign:** CF
